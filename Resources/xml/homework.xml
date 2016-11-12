@@ -1,10 +1,14 @@
-<project>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<projects>
+	<project>
 		<name>Homework 1</name>
 		<description>Resume</description>
-		<location>Homework\Homework1\resume.html</location>
+		<location>..\..\..\Homework\Homework1\resume.html</location>
 	</project>
 	<project>
 		<name>Homework 2</name>
 		<description>JavaScript, jQuery and jQuery Plugins</description>
-		<location>Homework\Homework2\index.html</location>
+		<location>..\..\..\Homework\Homework2\index.html</location>
 	</project>
+</projects>

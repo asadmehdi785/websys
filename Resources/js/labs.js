@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$.ajax ({
-		url: "../xml/classdata.xml",
+		url: "../xml/labs.xml",
 		dataType: "xml",
 		success: function(data) {
 			var i = 0;

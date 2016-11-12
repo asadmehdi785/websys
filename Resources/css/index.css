@@ -161,3 +161,8 @@ body {
     width: 700px;
   }
 }
+
+#home {
+  text-align: center;
+  margin: auto;
+}

@@ -1,7 +1,11 @@
-body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+html, body {
+  height: 100%;
+  background-color: #333;
 }
-
+body {
+  color: #fff;
+  padding-top: 70px;
+}
 footer {
     margin: 50px 0;
 }
