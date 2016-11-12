@@ -1,0 +1,91 @@
+body {
+  min-height: 100%
+}
+
+html {
+  height: 100%;
+}
+
+p {
+  padding-top: 25%;
+}
+
+li {
+  padding-top: 30px;
+  margin-left: -30px;
+}
+
+ul {
+  list-style-type: none;
+}
+li::before {
+  content: "- ";
+}
+
+.table {
+  border: 1px solid #999999;    
+  display: block;     
+  position: absolute;
+  width: 990px;
+} 
+
+.row {    
+  clear: both; 
+} 
+
+.cell{     
+/*  border: 1px solid #999999; */   
+  float: left;    
+  height: 130px;         
+  padding-right: 1.8%;
+  padding-left: 1.8%;  
+  text-align: center;
+  width: 11%; 
+} 
+
+.heading {     
+  /*border: 1px solid #999999; */   
+  float: left;    
+  text-align: center; 
+  padding: 3px 1.8%;    
+  width: 11%; 
+} 
+
+.cover {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  font-variant: small-caps;
+  color: green;
+}
+
+.artist {
+  font-weight: bold;
+  font-size: 120%;
+  padding-top: 20%;
+}
+
+.album {
+  font-style: italic;
+}
+
+.genre li {
+  font-size: 75%;
+}
+
+.release {
+  font-size: 75%;
+}
+
+.footer {
+  text-align: center;
+  font-style: italic;
+}
+
+.footer p {
+  display: block;
+  padding-top: 125px;
+  font-size: 10px;
+}

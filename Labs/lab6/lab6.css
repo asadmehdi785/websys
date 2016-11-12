@@ -1,0 +1,57 @@
+html { 
+  background: url(chalkboard.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 { 
+	color: #e0dbd1; 
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 50px; 
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	line-height: 1; 
+	text-align: center; 
+}
+
+h3 {
+	color: #e0dbd1; 
+	font-family: 'Helvetica Neue', sans-serif;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	line-height: 1; 
+	text-align: center;
+	font-size: 25px;
+}
+
+p {
+	color: #e0dbd1;
+	text-align: center;
+	font-size: 20px;
+}
+
+.first, .second {
+	height: 50px;
+	width: 220px;
+	font-size: 30px;
+}
+
+.form {
+	text-align: center;
+}
+
+#answer {
+	color: #e0dbd1;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Helvetica Neue', sans-serif; 
+}
+
+#plotka {
+	display: block;
+	margin: auto;
+	height: 250px;
+	width: 250px;
+}

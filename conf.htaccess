@@ -1,0 +1,9 @@
+<VirtualHost websys:80>
+  DocumentRoot "C:\Users\mehdia\Dropbox\Fall 2016\Web Systems Development\websys"
+  ServerName websys
+  <Directory "C:\Users\mehdia\Dropbox\Fall 2016\Web Systems Development\websys">
+    Options Indexes
+    AllowOverride All
+    Require all Granted
+  </Directory>
+</VirtualHost>

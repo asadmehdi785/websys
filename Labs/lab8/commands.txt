@@ -1,0 +1,32 @@
+Below are the commands I used for questions 7 - 10:
+
+7. list all students' data in the following sequences;
+	by rin,
+	last name,
+	RCSid,
+	firstname
+
+Code:
+
+SELECT * FROM `students` ORDER BY 'rin' ASC
+SELECT * FROM `students` ORDER BY 'last name' ASC
+SELECT * FROM `students` ORDER BY 'rcsid' ASC
+SELECT * FROM `students` ORDER BY 'first name' ASC
+
+8. list all students first name and last name if their grade in any course was higher than a 90 (make sure at least one person fits the criterion
+
+Code:
+
+SELECT `students`.`first name`, `students`.`last name`, `grades`.`grade` FROM grades LEFT JOIN students ON students.rin = grades.rin LEFT JOIN courses ON grades.crn = courses.crn WHERE grades.grade > 90
+
+9. list out the average grade in the second course
+
+Code:
+
+SELECT AVG(`grade`) FROM `grades` where `crn` = 38132
+
+10. list out the number of students
+
+Code:
+
+SELECT COUNT(*) FROM students

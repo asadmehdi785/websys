@@ -1,0 +1,27 @@
+song {
+	font-size: 24px;
+	display: block;
+	margin-bottom: 50px;
+}
+
+name {
+	display: block;
+	font-size: 85%;
+}
+artist {
+	display: block;
+	color: blue;
+}
+album {
+	display: block;
+	font-style: italic;
+}
+cover {
+	display: block;
+}
+date {
+	display: block;
+}
+genre {
+	display: block;
+}

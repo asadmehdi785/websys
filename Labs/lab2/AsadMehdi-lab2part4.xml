@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="AsadMehdi-lab2part4.css"?>
+<root_element xmlns:html="http://www.w3.org/1999/xhtml">
+<favorite_songs>
+  <song>
+  	<name>Imagine</name>
+  	<artist><html:a title="Armin Van Buuren" target="_blank" href="http://www.arminvanbuuren.com/">Armin Van Buuren</html:a></artist>
+  	<album><html:a title="Imagine" target="_blank" href="http://www.allmusic.com/album/imagine-mw0000787284">Imagine</html:a></album>
+  	<date>April 18th, 2008</date>
+  	<genre>Trance</genre>
+    <cover><html:img src="https://i.ytimg.com/vi/czJzYSoaNCU/maxresdefault.jpg" height="150" width="150" alt="" /></cover>
+  </song>
+
+  <song>
+  	<name>Silence (Tiesto's In Search of Sunrise Remix</name>
+  	<artist><html:a title="Delerium" target="_blank" href="https://www.facebook.com/Delerium/">Delerium</html:a> <html:a title="Tiesto" target="_blank" href="http://tiesto.com/">Tiesto</html:a></artist>
+  	<album><html:a title="Sarah Mclachlan Remixed" target="_blank" href="http://www.sarahmclachlan.com/music/remixed/">Sarah McLachlan Remixed</html:a></album>
+  	<date>December 16th, 2003</date>
+  	<genre>Vocal Trance</genre>
+    <cover><html:img src="https://upload.wikimedia.org/wikipedia/en/1/15/Mclachlan-remixed.jpg" height="150" width="150"/></cover>
+  </song>
+
+  <song>
+  	<name>Airwave</name>
+  	<artist><html:a title="Rank 1" target="_blank" href="http://www.rank-1.com/">Rank 1</html:a></artist>
+  	<album><html:a title="Airwave" target="_blank" href="http://www.allmusic.com/album/airwave-mw0001110718">Airwave</html:a></album>
+  	<date>May 2nd, 2000</date>
+  	<genre>Trance</genre>
+    <cover><html:img src="https://img.discogs.com/mh7UHhpBWHwUv6_P_ji-MBViiko=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-34961-1271434183.jpeg.jpg" height="150" width="150"/></cover>
+  </song>
+
+  <song>
+  	<name>Shivers</name>
+  	<artist><html:a title="Armin Van Buuren" target="_blank" href="http://www.arminvanbuuren.com/">Armin Van Buuren</html:a> <html:a title="Susana" target="_blank" href="http://www.susanavocalist.com/">Susana</html:a></artist>
+  	<album><html:a title="Shivers" target="_blank" href="http://www.allmusic.com/album/shivers-mw0000305286">Shivers</html:a></album>
+  	<date>August 23rd, 2005</date>
+  	<genre>Vocal Trance</genre>
+    <cover><html:img src="http://hwcdn.allmusic.com/release-covers/500/0000/400/0000400108.jpg" height="150" width="150"/></cover>
+  </song>
+
+  <song>
+  	<name>Anywhere With You (Solarstone Pure Mix)</name>
+  	<artist><html:a title="The Thrillseekers" target="_blank" href="http://www.thethrillseekers.co.uk/">The Thrillseekers</html:a> <html:a title="Stine Grove" target="_blank" href="http://www.stinegrove.com/">Stine Grove</html:a> <html:a title="Solarstone" target="_blank" href="http://www.solarstone.co.uk/">Solarstone</html:a></artist>
+  	<album><html:a title="Anywhere With You" target="_blank" href="https://www.beatport.com/release/anywhere-with-you/1038725">Anywhere With You</html:a></album>
+  	<date>February 2nd, 2013</date>
+  	<genre>Vocal Trance</genre>
+    <cover><html:img class="album" src="https://geo-media.beatport.com/image/6789388.jpg" height="150" width="150"/></cover>
+  </song>
+
+  <song>
+  	<name>Starships Over Alice</name>
+  	<artist><html:a title="Arctic Moon" target="_blank" href="https://www.facebook.com/ArcticMoonMusic/">Arctic Moon</html:a></artist>
+  	<album><html:a title="Starships Over Alice" target="_blank" href="https://www.discogs.com/Arctic-Moon-Starships-Over-Alice/master/458974">Starships Over Alice</html:a></album>
+  	<date>2012</date>
+  	<genre>Trance</genre>
+    <cover><html:img class="album" src="https://img.discogs.com/enf4D-rAM5ohQJRiWAyEyyrXMlY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3768548-1344937953-9974.jpeg.jpg" height="150" width="150"/></cover>
+  </song>
+</favorite_songs>
+</root_element>

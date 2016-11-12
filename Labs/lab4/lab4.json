@@ -1,0 +1,64 @@
+{
+  "favorite_songs" : [
+    {
+    	"name": "Imagine",
+    	"artist": "Armin Van Buuren",
+    	"artist_site": "http://www.arminvanbuuren.com/",
+    	"album": "Imagine",
+    	"album_link": "http://www.allmusic.com/album/imagine-mw0000787284",
+    	"date": "April 18th, 2008",
+    	"genre": "Trance",
+    	"cover": "https://i.ytimg.com/vi/czJzYSoaNCU/maxresdefault.jpg"
+    },
+    {
+    	"name": "Silence (Tiesto's In Search of Sunrise Remix)",
+    	"artist": "Delerium",
+    	"artist_site": "https://www.facebook.com/Delerium/",
+    	"album": "Sarah McLachlan Remixed",
+    	"album_link": "http://www.sarahmclachlan.com/music/remixed/",
+    	"date": "December 16th, 2003",
+    	"genre": "Vocal Trance",
+    	"cover": "https://upload.wikimedia.org/wikipedia/en/1/15/Mclachlan-remixed.jpg"
+    },
+    {
+    	"name": "Airwave",
+    	"artist": "Rank 1",
+    	"artist_site": "http://www.rank-1.com/", 
+    	"album": "Airwave",
+    	"album_link": "http://www.allmusic.com/album/airwave-mw0001110718", 
+    	"date": "May 2nd, 2000",
+    	"genre": "Trance",
+    	"cover": "https://img.discogs.com/mh7UHhpBWHwUv6_P_ji-MBViiko=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-34961-1271434183.jpeg.jpg"
+    },
+    {
+    	"name": "Shivers",
+    	"artist": "Armin Van Buuren",
+    	"artist_site": "http://www.arminvanbuuren.com/",
+    	"album": "Shivers",
+    	"album_link": "http://www.allmusic.com/album/shivers-mw0000305286",
+    	"date": "August 23rd, 2005",
+    	"genre": "Vocal Trance",
+    	"cover": "http://hwcdn.allmusic.com/release-covers/500/0000/400/0000400108.jpg"
+    },
+    {
+    	"name": "Anywhere With You (Solarstone Pure Mix)",
+    	"artist": "The Thrillseekers",
+    	"artist_site": "http://www.thethrillseekers.co.uk/",
+    	"album": "Anywhere With You",
+    	"album_link": "https://www.beatport.com/release/anywhere-with-you/1038725",
+    	"date": "February 2nd, 2013",
+    	"genre": "Vocal Trance",
+    	"cover": "https://geo-media.beatport.com/image/6789388.jpg"
+    },
+    {
+    	"name": "Starships Over Alice",
+    	"artist": "Arctic Moon",
+    	"artist_site": "https://www.facebook.com/ArcticMoonMusic/",
+    	"album": "Starships Over Alice",
+    	"album_link": "https://www.discogs.com/Arctic-Moon-Starships-Over-Alice/master/458974",
+    	"date": "August 13, 2012",
+    	"genre": "Trance",
+    	"cover": "https://img.discogs.com/enf4D-rAM5ohQJRiWAyEyyrXMlY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3768548-1344937953-9974.jpeg.jpg"
+    }
+  ]
+}

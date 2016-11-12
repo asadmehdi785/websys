@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<favorite_songs>
+  <song>
+  	<name>Imagine</name>
+  	<artist><a href="http://www.arminvanbuuren.com/">Armin Van Buuren</a></artist>
+  	<album><a href="http://www.allmusic.com/album/imagine-mw0000787284">Imagine</a></album>
+  	<date>April 18th, 2008</date>
+  	<genre>Trance</genre>
+    <cover><img src="https://i.ytimg.com/vi/czJzYSoaNCU/maxresdefault.jpg" /></cover>
+  </song>
+
+  <song>
+  	<name>Silence (Tiesto's In Search of Sunrise Remix</name>
+  	<artist><a href="https://www.facebook.com/Delerium/">Delerium</a> and <a href="http://tiesto.com/">Tiesto</a></artist>
+  	<album><a href="http://www.sarahmclachlan.com/music/remixed/">Sarah McLachlan Remixed</a></album>
+  	<date>December 16th, 2003</date>
+  	<genre>Vocal Trance</genre>
+    <cover><img src="https://upload.wikimedia.org/wikipedia/en/1/15/Mclachlan-remixed.jpg"/></cover>
+  </song>
+
+  <song>
+  	<name>Airwave</name>
+  	<artist><a href="http://www.rank-1.com/">Rank 1</a></artist>
+  	<album><a href="http://www.allmusic.com/album/airwave-mw0001110718">Airwave</a></album>
+  	<date>May 2nd, 2000</date>
+  	<genre>Trance</genre>
+    <cover><img src="https://img.discogs.com/mh7UHhpBWHwUv6_P_ji-MBViiko=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-34961-1271434183.jpeg.jpg"/></cover>
+  </song>
+
+  <song>
+    <name>Shivers</name>
+    <artist><a href="http://www.arminvanbuuren.com/">Armin Van Buuren</a> <a href="http://www.susanavocalist.com/">Susana</a></artist>
+    <album><a href="http://www.allmusic.com/album/shivers-mw0000305286">Shivers</a></album>
+    <date>August 23rd, 2005</date>
+    <genre>Vocal Trance</genre>
+    <cover><img class="album" src="http://hwcdn.allmusic.com/release-covers/500/0000/400/0000400108.jpg"/></cover>
+  </song>
+
+  <song>
+    <name>Anywhere With You (Solarstone Pure Mix)</name>
+    <artist><a href="http://www.thethrillseekers.co.uk/">The Thrillseekers</a> <a href="http://www.stinegrove.com/">Stine Grove</a> <a href="http://www.solarstone.co.uk/">Solarstone</a></artist>
+    <album><a href="https://www.beatport.com/release/anywhere-with-you/1038725">Anywhere With You</a></album>
+    <date>February 2nd, 2013</date>
+    <genre>Vocal Trance</genre>
+    <cover><img class="album" src="https://geo-media.beatport.com/image/6789388.jpg"/></cover>
+  </song>
+
+  <song>
+    <name>Starships Over Alice</name>
+    <artist><a href="https://www.facebook.com/ArcticMoonMusic/">Arctic Moon</a></artist>
+    <album><a href="https://www.discogs.com/Arctic-Moon-Starships-Over-Alice/master/458974">Starships Over Alice</a></album>
+    <date>2012</date>
+    <genre>Trance</genre>
+    <cover><img class="album" src="https://img.discogs.com/enf4D-rAM5ohQJRiWAyEyyrXMlY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3768548-1344937953-9974.jpeg.jpg"/></cover>
+  </song>
+</favorite_songs>
