@@ -1,0 +1,10 @@
+<project>
+		<name>Homework 1</name>
+		<description>Resume</description>
+		<location>Homework\Homework1\resume.html</location>
+	</project>
+	<project>
+		<name>Homework 2</name>
+		<description>JavaScript, jQuery and jQuery Plugins</description>
+		<location>Homework\Homework2\index.html</location>
+	</project>

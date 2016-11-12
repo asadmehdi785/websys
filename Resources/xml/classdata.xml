@@ -4,32 +4,32 @@
 	<project>
 		<name>Lab 1</name>
 		<description>Apache Setup and Virtual Hosts</description>
-		<location>Labs\lab1</location>
+		<location>..\..\..\Labs\lab1</location>
 	</project>
 	<project>
 		<name>Lab 2</name>
 		<description>Dynamically generating webpages with XML</description>
-		<location>Labs\lab2\AsadMehdi-lab2part3.html</location>
+		<location>..\..\..\Labs\lab2\AsadMehdi-lab2part3.html</location>
 	</project>
 	<project>
 		<name>Lab 3</name>
 		<description>Playing with JavaScript</description>
-		<location>Labs\lab3\lab3.html</location>
+		<location>..\..\..\Labs\lab3\lab3.html</location>
 	</project>
 	<project>
 		<name>Lab 4</name>
 		<description>jQuery and AJAX</description>
-		<location>Labs\lab4\lab4.html</location>
+		<location>..\..\..\Labs\lab4\lab4.html</location>
 	</project>
 	<project>
 		<name>Lab 5</name>
 		<description>Front-End Optimization</description>
-		<location>Labs\lab5\lab5.html</location>
+		<location>..\..\..\Labs\lab5\lab5.html</location>
 	</project>
 	<project>
 		<name>Lab 6</name>
 		<description>PHP, OOP and Input Handling</description>
-		<location>Labs\lab6\lab6.php</location>
+		<location>..\..\..\Labs\lab6\lab6.php</location>
 	</project>
 	<project>
 		<name>Lab 7</name>
@@ -45,15 +45,5 @@
 		<name>Lab 9</name>
 		<description>Unknown</description>
 		<location>#</location>
-	</project>
-	<project>
-		<name>Homework 1</name>
-		<description>Resume</description>
-		<location>Homework\Homework1\resume.html</location>
-	</project>
-	<project>
-		<name>Homework 2</name>
-		<description>JavaScript, jQuery and jQuery Plugins</description>
-		<location>Homework\Homework2\index.html</location>
 	</project>
 </projects>
