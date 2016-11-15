@@ -1,6 +1,6 @@
 Asad Mehdi
-Quiz 1
+Quiz 1 Continued/Lab 7
 
-I did not have time to create a CSS file for this quiz, as I was having troubles with Apache not starting up for the first portion of the quiz. Due to this, I also was not able to comment my code.
+This is my lab 7 project, and also a continuation of my quiz 1 assignment. The website exists to showcase the lab and homework assignments I have worked on so far in the class. It consists of a homepage, a page listing the labs, and a page listing the homework assignments I have worked on. I wanted to have a clean, simple look with the site, and I think I accomplished that.
 
-Hope you have a nice day!
+Hope you enjoy!
